@@ -1,0 +1,14 @@
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: normal;
+  background-color: lightgray;
+}
+html{
+    background-color: aqua;
+}
+article{
+    text-align: justify;
+}
