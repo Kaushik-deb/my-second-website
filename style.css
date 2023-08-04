@@ -11,4 +11,14 @@ html{
 }
 article{
     text-align: justify;
+    float: left;
+}
+p{
+  text-align: justify;
+}
+blockquote{
+  text-align: justify;
+}
+button{
+  color: brown;
 }
